@@ -1,8 +1,7 @@
 {
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": "^6.7.7",
+    "@vitalets/google-translate-api": "^9.2.0",    
     "acrcloud": "^1.4.0",
     "aki-api": "^6.0.9",
     "archiver": "^6.0.1",
